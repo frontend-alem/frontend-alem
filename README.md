@@ -2,6 +2,9 @@
 
 ## Hi there 👋
 
+![Static Badge](https://img.shields.io/badge/HTML5-%235D5D5D?style=flat&logo=html5&logoColor=%23FF5F00)
+
+
 <!--
 **frontend-alem/frontend-alem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
