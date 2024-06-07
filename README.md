@@ -2,7 +2,8 @@
 
 ## Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/HTML5-%235D5D5D?style=flat&logo=html5&logoColor=%23FF5F00)
+![Static Badge](https://img.shields.io/badge/HTML5-%235D5D5D?style=flat-square&logo=html5&logoColor=%23FF5F00)
+
 
 
 <!--
