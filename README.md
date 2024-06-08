@@ -37,7 +37,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frontend-alem&theme=slateorange&show_icons=true)
 
 ### Streak stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frontend-alem)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frontend-alem&theme=onedark)](https://git.io/streak-stats)
 
 ### Trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=frontend-alem&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
