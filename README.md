@@ -14,7 +14,6 @@
 ![Static Badge](https://img.shields.io/badge/ExpressJS-%234A4A55?style=flat-square&logo=express&logoColor=%2300FFCA)
 ![Static Badge](https://img.shields.io/badge/MongoDB-%234A4A55?style=flat-square&logo=mongodb&logoColor=%2300FFCA)
 ![Static Badge](https://img.shields.io/badge/GreenSock-%234A4A55?style=flat-square&logo=greensock&logoColor=%2300FFCA)
-![Static Badge](https://img.shields.io/badge/Figma-%234A4A55?style=flat-square&logo=figma&logoColor=%2300FFCA)
 ![Static Badge](https://img.shields.io/badge/Sass-%234A4A55?style=flat-square&logo=sass&logoColor=%23F075AA)
 ![Static Badge](https://img.shields.io/badge/Docker-%234A4A55?style=flat-square&logo=docker&logoColor=%233ABEF9)
 
