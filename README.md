@@ -26,6 +26,8 @@
 ![Static Badge](https://img.shields.io/badge/GreenSock-%234A4A55?style=flat-square&logo=greensock&logoColor=%2300FFCA)
 ![Static Badge](https://img.shields.io/badge/Jest-%234A4A55?style=flat-square&logo=jest&logoColor=%23FC4100)
 ![Static Badge](https://img.shields.io/badge/Playwright-%234A4A55?style=flat-square&logo=playwright&logoColor=%23A3FFD6)
+![Static Badge](https://img.shields.io/badge/Postman-%234A4A55?style=flat-square&logo=postman&logoColor=%23FF7D29)
+![Git](https://img.shields.io/badge/git-%234A4A55?style=flat-square&logo=git&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-%234A4A55?style=flat-square&logo=gimp&logoColor=FFFFFF)
 ![Github Pages](https://img.shields.io/badge/github%20pages-%234A4A55?style=flat-square&logo=github&logoColor=white)
 ![Glitch](https://img.shields.io/badge/glitch-%234A4A55?style=flat-square&logo=glitch&logoColor=white)
