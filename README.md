@@ -38,17 +38,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frontend-alem&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frontend-alem&theme=slateorange&show_icons=true)
-
----
 
 ### Streak stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=frontend-alem&theme=onedark)](https://git.io/streak-stats)
 
 ### Trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=frontend-alem&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ### Find me in these places:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Tot_Samyi_Alim)
