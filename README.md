@@ -32,9 +32,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Tot_Samyi_Alim)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alimzhan-islamkulov-109b8b257/)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alimzhanis)
-
-### Resume:
-[![Static Badge](https://img.shields.io/badge/Resume-%234A4A55?style=for-the-badge&logo=readme&logoColor=B4068E)](https://cdn.glitch.global/06f80291-9526-4166-8973-9978e4430c49/Alimzhan-Islamkulov-Resume.pdf?v=1717815710790)
+[![Resume](https://img.shields.io/badge/-Resume-090909?style=for-the-badge&logo=readme&logoColor=B4068E)](https://cdn.glitch.global/06f80291-9526-4166-8973-9978e4430c49/Alimzhan-Islamkulov-Resume.pdf?v=1717815710790)
 
 
 
