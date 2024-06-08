@@ -22,7 +22,7 @@ My happy place is where creativity and code intersect
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frontend-alem)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frontend-Alem&theme=dark&show_icons=true)
 
 
 
