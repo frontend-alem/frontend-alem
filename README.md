@@ -5,6 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/HTML5-%234A4A55?style=flat-square&logo=html5&logoColor=%23F86F03)
 ![Static Badge](https://img.shields.io/badge/CSS3-%234A4A55?style=flat-square&logo=css3&logoColor=%2378C1F3)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%234A4A55?style=flat-square&logo=javascript&logoColor=%23FFE194)
+![Static Badge](https://img.shields.io/badge/TypeScript-%234A4A55?style=flat-square&logo=typescript&logoColor=%23FEB941)
 ![Static Badge](https://img.shields.io/badge/React-%234A4A55?style=flat-square&logo=react&logoColor=%23B6EAFA)
 ![Static Badge](https://img.shields.io/badge/Redux-%234A4A55?style=flat-square&logo=redux&logoColor=%23C9A7EB)
 ![Static Badge](https://img.shields.io/badge/NodeJS-%234A4A55?style=flat-square&logo=nodedotjs&logoColor=%2300FFCA)
