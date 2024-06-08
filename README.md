@@ -1,7 +1,8 @@
 ![I am a Software Web Developer](GitHubBg.png)
 
 ## Hi there 👋
-#### I like building fun, creative websites and side projects that are also performant and accessible. My happy place is where creativity and code intersect
+I like building fun, creative websites and side projects that are also performant and accessible. 
+My happy place is where creativity and code intersect
 
 ### Languages and Tools:
 ![Static Badge](https://img.shields.io/badge/HTML5-%234A4A55?style=flat-square&logo=html5&logoColor=%23F86F03)
