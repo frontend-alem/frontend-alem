@@ -33,9 +33,6 @@
 ![Render](https://img.shields.io/badge/Render-%234A4A55?style=flat-square&logo=render&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frontend-alem)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frontend-alem&theme=slateorange&show_icons=true)
 
