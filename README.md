@@ -33,11 +33,11 @@
 ![Render](https://img.shields.io/badge/Render-%234A4A55?style=flat-square&logo=render&logoColor=white)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=frontend-alem&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frontend-alem&theme=slateorange&show_icons=true)
+
+### Trophy:
+[![trophy](https://github-profile-trophy.vercel.app/?username=frontend-alem&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Find me in these places:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Tot_Samyi_Alim)
