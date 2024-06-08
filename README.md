@@ -25,6 +25,7 @@ My happy place is where creativity and code intersect
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frontend-Alem&theme=slateorange&show_icons=true)
 
 ### Find me in these places:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Tot_Samyi_Alim)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alimzhan-islamkulov-109b8b257/)
 
 
