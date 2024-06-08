@@ -1,10 +1,10 @@
 ![I am a Software Web Developer](GitHubBg.png)
 
 ## Websites/Content/Apps Creator
-I like building fun, creative websites and side projects that are also performant and accessible. 
-My happy place is where creativity and code intersect
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=22&pause=1000&vCenter=true&random=false&width=960&height=40&lines=I+like+building+fun%2C+creative+websites+and+side+projects+that+are+also+performant+and+accessible.+My+happy+place+is+where+creativity+and+code+intersect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=22&pause=800&vCenter=true&random=false&width=800&height=40&lines=I+like+building+fun%2C+creative+websites+and+side+projects+;that+are+also+performant+and+accessible.+;My+happy+place+is+where+creativity+and+code+intersect.)](https://git.io/typing-svg)
+
+
 
 ### Languages and Tools:
 ![Static Badge](https://img.shields.io/badge/HTML5-%234A4A55?style=flat-square&logo=html5&logoColor=%23F86F03)
