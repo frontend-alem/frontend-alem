@@ -1,6 +1,6 @@
 ![I am a Software Web Developer](GitHubBg2.png)
 
-## Websites/Content/Apps Creator  ![](https://komarev.com/ghpvc/?username=your-github-username)
+## Websites/Content/Apps Creator 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=22&pause=800&vCenter=true&random=false&width=800&height=40&lines=I+like+building+fun%2C+creative+websites+and+side+projects+;that+are+also+performant+and+accessible.+;My+happy+place+is+where+creativity+and+code+intersect.)](https://git.io/typing-svg)
 
@@ -47,6 +47,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alimzhan-islamkulov-109b8b257/)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alimzhanis)
 [![Resume](https://img.shields.io/badge/-Resume-090909?style=for-the-badge&logo=readme&logoColor=B4068E)](https://cdn.glitch.global/06f80291-9526-4166-8973-9978e4430c49/Alimzhan-Islamkulov-Resume.pdf?v=1717815710790)
+
+![](https://komarev.com/ghpvc/?username=frontend-alem)
 
 
 
