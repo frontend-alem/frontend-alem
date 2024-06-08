@@ -23,7 +23,7 @@ My happy place is where creativity and code intersect
 ![Static Badge](https://img.shields.io/badge/Playwright-%234A4A55?style=flat-square&logo=playwright&logoColor=%23A3FFD6)
 
 
-### Statistic:
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frontend-alem&theme=slateorange&show_icons=true)
 
 ### Find me in these places:
