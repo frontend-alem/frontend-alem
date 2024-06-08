@@ -33,6 +33,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alimzhan-islamkulov-109b8b257/)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alimzhanis)
 
+### Resume:
+![Static Badge](https://img.shields.io/badge/Resume-%234A4A55?style=for-the-badge&logo=readme&logoColor=%23FC4100&link=https%3A%2F%2Fcdn.glitch.global%2F06f80291-9526-4166-8973-9978e4430c49%2FAlimzhan-Islamkulov-Resume.pdf%3Fv%3D1717815710790)
+
+
 
 
 
