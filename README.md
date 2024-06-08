@@ -24,7 +24,7 @@ My happy place is where creativity and code intersect
 
 
 ### Statistic:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frontend-Alem&theme=slateorange&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frontend-alem&theme=slateorange&show_icons=true)
 
 ### Find me in these places:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Tot_Samyi_Alim)
