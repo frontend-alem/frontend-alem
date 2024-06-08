@@ -8,6 +8,7 @@ My happy place is where creativity and code intersect
 ![Static Badge](https://img.shields.io/badge/HTML5-%234A4A55?style=flat-square&logo=html5&logoColor=%23F86F03)
 ![Static Badge](https://img.shields.io/badge/CSS3-%234A4A55?style=flat-square&logo=css3&logoColor=%2378C1F3)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-%234A4A55?style=flat-square&logo=bootstrap&logoColor=%23E49BFF)
+![Static Badge](https://img.shields.io/badge/Sass-%234A4A55?style=flat-square&logo=sass&logoColor=%23F075AA)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%234A4A55?style=flat-square&logo=javascript&logoColor=%23FFE194)
 ![Static Badge](https://img.shields.io/badge/TypeScript-%234A4A55?style=flat-square&logo=typescript&logoColor=%23FEB941)
 ![Static Badge](https://img.shields.io/badge/React-%234A4A55?style=flat-square&logo=react&logoColor=%23B6EAFA)
@@ -16,7 +17,6 @@ My happy place is where creativity and code intersect
 ![Static Badge](https://img.shields.io/badge/ExpressJS-%234A4A55?style=flat-square&logo=express&logoColor=%2300FFCA)
 ![Static Badge](https://img.shields.io/badge/MongoDB-%234A4A55?style=flat-square&logo=mongodb&logoColor=%2300FFCA)
 ![Static Badge](https://img.shields.io/badge/GreenSock-%234A4A55?style=flat-square&logo=greensock&logoColor=%2300FFCA)
-![Static Badge](https://img.shields.io/badge/Sass-%234A4A55?style=flat-square&logo=sass&logoColor=%23F075AA)
 ![Static Badge](https://img.shields.io/badge/Docker-%234A4A55?style=flat-square&logo=docker&logoColor=%233ABEF9)
 
 
