@@ -15,9 +15,10 @@ My happy place is where creativity and code intersect
 ![Static Badge](https://img.shields.io/badge/Redux-%234A4A55?style=flat-square&logo=redux&logoColor=%23C9A7EB)
 ![Static Badge](https://img.shields.io/badge/NodeJS-%234A4A55?style=flat-square&logo=nodedotjs&logoColor=%2300FFCA)
 ![Static Badge](https://img.shields.io/badge/ExpressJS-%234A4A55?style=flat-square&logo=express&logoColor=%2300FFCA)
+![Static Badge](https://img.shields.io/badge/Docker-%234A4A55?style=flat-square&logo=docker&logoColor=%233ABEF9)
 ![Static Badge](https://img.shields.io/badge/MongoDB-%234A4A55?style=flat-square&logo=mongodb&logoColor=%2300FFCA)
 ![Static Badge](https://img.shields.io/badge/GreenSock-%234A4A55?style=flat-square&logo=greensock&logoColor=%2300FFCA)
-![Static Badge](https://img.shields.io/badge/Docker-%234A4A55?style=flat-square&logo=docker&logoColor=%233ABEF9)
+
 
 
 
