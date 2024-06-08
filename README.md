@@ -16,6 +16,7 @@
 ![Static Badge](https://img.shields.io/badge/React-%234A4A55?style=flat-square&logo=react&logoColor=%23B6EAFA)
 ![Static Badge](https://img.shields.io/badge/Redux-%234A4A55?style=flat-square&logo=redux&logoColor=%23C9A7EB)
 ![Static Badge](https://img.shields.io/badge/NodeJS-%234A4A55?style=flat-square&logo=nodedotjs&logoColor=%2300FFCA)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD)
 ![Static Badge](https://img.shields.io/badge/ExpressJS-%234A4A55?style=flat-square&logo=express&logoColor=%2300FFCA)
 ![Static Badge](https://img.shields.io/badge/Docker-%234A4A55?style=flat-square&logo=docker&logoColor=%233ABEF9)
 ![Static Badge](https://img.shields.io/badge/MongoDB-%234A4A55?style=flat-square&logo=mongodb&logoColor=%2300FFCA)
