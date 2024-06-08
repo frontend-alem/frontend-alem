@@ -1,4 +1,4 @@
-![I am a Software Web Developer](GitHubBg.png)
+![I am a Software Web Developer](GitHubBg2.png)
 
 ## Websites/Content/Apps Creator
 
