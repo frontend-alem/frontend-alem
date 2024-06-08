@@ -1,6 +1,6 @@
 ![I am a Software Web Developer](GitHubBg.png)
 
-## Hi there 👋
+## Websites/Content/Apps Creator
 I like building fun, creative websites and side projects that are also performant and accessible. 
 My happy place is where creativity and code intersect
 
