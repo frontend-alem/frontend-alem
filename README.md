@@ -4,6 +4,8 @@
 I like building fun, creative websites and side projects that are also performant and accessible. 
 My happy place is where creativity and code intersect
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=22&pause=1000&random=false&width=500&height=35&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+
 ### Languages and Tools:
 ![Static Badge](https://img.shields.io/badge/HTML5-%234A4A55?style=flat-square&logo=html5&logoColor=%23F86F03)
 ![Static Badge](https://img.shields.io/badge/CSS3-%234A4A55?style=flat-square&logo=css3&logoColor=%2378C1F3)
