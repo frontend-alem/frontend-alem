@@ -19,8 +19,8 @@ My happy place is where creativity and code intersect
 ![Static Badge](https://img.shields.io/badge/MongoDB-%234A4A55?style=flat-square&logo=mongodb&logoColor=%2300FFCA)
 ![Static Badge](https://img.shields.io/badge/MySQL-%234A4A55?style=flat-square&logo=mysql&logoColor=%23A0DEFF)
 ![Static Badge](https://img.shields.io/badge/GreenSock-%234A4A55?style=flat-square&logo=greensock&logoColor=%2300FFCA)
-
-
+![Static Badge](https://img.shields.io/badge/Jest-%234A4A55?style=flat-square&logo=jest&logoColor=%23A0DEFF)
+![Static Badge](https://img.shields.io/badge/Playwright-%234A4A55?style=flat-square&logo=playwright&logoColor=%23A3FFD6)
 
 
 ### Statistic:
