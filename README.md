@@ -27,6 +27,10 @@
 ![Static Badge](https://img.shields.io/badge/Jest-%234A4A55?style=flat-square&logo=jest&logoColor=%23FC4100)
 ![Static Badge](https://img.shields.io/badge/Playwright-%234A4A55?style=flat-square&logo=playwright&logoColor=%23A3FFD6)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white)
+![Glitch](https://img.shields.io/badge/glitch-%234A4A55?style=flat-square&logo=glitch&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%234A4A55?style=flat-square&logo=netlify&logoColor=#00C7B7)
+![Render](https://img.shields.io/badge/Render-%234A4A55?style=flat-square&logo=render&logoColor=white)
 
 
 
